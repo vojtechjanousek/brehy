@@ -1,0 +1,5 @@
+tmave modra		152f51
+svetle modra	00c9ff
+tmave zelena	2c6433
+zelena			1e7d32
+zluta			ffdcb1
